@@ -4,7 +4,8 @@ close all;
 
 % we set all parameters, otherwise default values are used.
 opts.masking_mode = 0;
-opts.preprocessing = 0;
+opts.preprocessing = 1;
+opts.dir_mask_size = 7;
 opts.prep_wsz = 49;
 opts.top_exp = 0;
 opts.lambda = 0.8;
