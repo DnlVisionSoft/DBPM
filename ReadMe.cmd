@@ -10,3 +10,9 @@ Biometric systems based on retinal image analysis are of interest for highly acc
 
 Matlab Implementation by Daniel Riccio, May 12, 2017.
 Copyright (C) 2017 Daniel Riccio (dnl.riccio@gmail.com)
+
+-------------------------------------------------------
+
+Bibliographic reference:
+
+Maria Frucci, Daniel Riccio, Gabriella Sanniti di Baja, Luca Serino, Using direction and score information for retina based person verification, Expert Systems with Applications, October, 2017. DOI: https://doi.org/10.1016/j.eswa.2017.10.044.
